@@ -24,7 +24,6 @@ public class ReveseString {
     }
 
     // Array
-
     public static String revArr(String str){
 
         char[] eachChar = str.toCharArray(); 
